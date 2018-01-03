@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Secret of Colors</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about_youtube">Youtube\'da izle</string>
+    <string name="about_contact_us">İletişime geç</string>
+    <string name="about_facebook">Facebook\'ta beğen</string>
+    <string name="about_github">Github\'da beğen</string>
+    <string name="about_instagram">Instagram\'da takip et</string>
+    <string name="about_play_store">Play Store\'da puan ver</string>
+    <string name="about_twitter">Twitter\'da takip et</string>
+    <string name="about_website">Sitemizi ziyaret et</string>
+</resources>

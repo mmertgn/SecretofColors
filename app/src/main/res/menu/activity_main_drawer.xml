@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="Anasayfa" />
+
+    </group>
+
+    <item
+        android:title="Modlar">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_camera"
+                    android:icon="@drawable/ic_perm_camera_mic_black_24dp"
+                    android:title="Melodi" />
+                <item
+                    android:id="@+id/nav_camera1"
+                    android:icon="@drawable/ic_music_video_black_24dp"
+                    android:title="Melodi 2" />
+                <item
+                    android:id="@+id/nav_gallery"
+                    android:icon="@drawable/ic_camera_enhance_black_24dp"
+                    android:title="Klasik" />
+                <item
+                    android:id="@+id/nav_mod3"
+                    android:icon="@drawable/ic_music_note_black_24dp"
+                    android:title="Nota" />
+            </group>
+        </menu>
+
+    </item>
+
+    <item
+        android:title="Diğer">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_oyla"
+                    android:icon="@drawable/ic_shop_black_24dp"
+                    android:title="Oyla ve Yorum Yap" />
+                <item
+                    android:id="@+id/nav_hakkinda"
+                    android:icon="@drawable/ic_info_outline_black_24dp"
+                    android:title="Hakkında" />
+            </group>
+        </menu>
+
+    </item>
+
+
+        <group android:checkableBehavior="single"
+            android:id="@+id/cikis">
+            <item
+                android:id="@+id/nav_cikis"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Çıkış" />
+        </group>
+
+
+</menu>

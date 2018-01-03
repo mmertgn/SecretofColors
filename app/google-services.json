@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407558942180",
+    "firebase_url": "https://secretofcolors-407ef.firebaseio.com",
+    "project_id": "secretofcolors-407ef",
+    "storage_bucket": "secretofcolors-407ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407558942180:android:259a9ddff6323558",
+        "android_client_info": {
+          "package_name": "com.mert.secretofcolors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407558942180-72sfvthqlig5msge9haf4qal4osv2kn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mert.secretofcolors",
+            "certificate_hash": "f20766b44742428813d9342e4d39a492cc174da4"
+          }
+        },
+        {
+          "client_id": "407558942180-mlq0iac763m7gfs1rishsec1sfijfkf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVuUQMG9jIHGvbPTcSoQKPUY1ih_3LYY0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407558942180-mlq0iac763m7gfs1rishsec1sfijfkf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
